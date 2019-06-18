@@ -1,0 +1,2 @@
+# bypass-distil-service-integration
+The main idea of that bypass distil service is to white-list certain IP addresses for a distil protected site. Your IP address should be "white-listed" for a short period of time and requests [you do] be prevented from getting a captcha, assuming only distil captchas are in place, since you solved the distil bot challenge. Solving the distil bot challenge is what that bypass distil network does.
